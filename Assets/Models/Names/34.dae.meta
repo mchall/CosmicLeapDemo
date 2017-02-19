@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 19a9e7ffdf945884fb6e681675755ef6
+timeCreated: 1455125161
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ID104
+    100004: ID110
+    100006: ID116
+    100008: ID12
+    100010: ID18
+    100012: ID24
+    100014: ID30
+    100016: ID36
+    100018: ID42
+    100020: ID48
+    100022: ID62
+    100024: ID68
+    100026: ID74
+    100028: ID80
+    100030: ID86
+    100032: ID92
+    100034: ID98
+    100036: instance_0
+    100038: instance_1
+    100040: Return_to
+    100042: Sender
+    400000: //RootNode
+    400002: ID104
+    400004: ID110
+    400006: ID116
+    400008: ID12
+    400010: ID18
+    400012: ID24
+    400014: ID30
+    400016: ID36
+    400018: ID42
+    400020: ID48
+    400022: ID62
+    400024: ID68
+    400026: ID74
+    400028: ID80
+    400030: ID86
+    400032: ID92
+    400034: ID98
+    400036: instance_0
+    400038: instance_1
+    400040: Return_to
+    400042: Sender
+    2300000: ID104
+    2300002: ID110
+    2300004: ID116
+    2300006: ID12
+    2300008: ID18
+    2300010: ID24
+    2300012: ID30
+    2300014: ID36
+    2300016: ID42
+    2300018: ID48
+    2300020: ID62
+    2300022: ID68
+    2300024: ID74
+    2300026: ID80
+    2300028: ID86
+    2300030: ID92
+    2300032: ID98
+    2300034: Return_to
+    2300036: Sender
+    3300000: ID104
+    3300002: ID110
+    3300004: ID116
+    3300006: ID12
+    3300008: ID18
+    3300010: ID24
+    3300012: ID30
+    3300014: ID36
+    3300016: ID42
+    3300018: ID48
+    3300020: ID62
+    3300022: ID68
+    3300024: ID74
+    3300026: ID80
+    3300028: ID86
+    3300030: ID92
+    3300032: ID98
+    3300034: Return_to
+    3300036: Sender
+    4300000: Sender
+    4300002: ID12
+    4300004: ID18
+    4300006: ID24
+    4300008: ID30
+    4300010: ID36
+    4300012: ID42
+    4300014: ID48
+    4300016: Return_to
+    4300018: ID62
+    4300020: ID68
+    4300022: ID74
+    4300024: ID80
+    4300026: ID86
+    4300028: ID92
+    4300030: ID98
+    4300032: ID104
+    4300034: ID110
+    4300036: ID116
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
